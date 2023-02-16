@@ -1,0 +1,10 @@
+body {
+    background: url(
+        https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGNhMGU3MWZlMjAwYjU2MmVjNjQ1ZDVhNjhmNzNhNTkxNzY0MmFjMCZjdD1n/cH5VGNHfv46vS/giphy.gif)
+        no-repeat 
+        center 
+        center 
+        fixed;
+
+    background-size: cover;
+}
